@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersection of the two given sets contains commont elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- test map function[0m[0m
